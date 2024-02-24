@@ -1,5 +1,5 @@
 package com.example.commercebank.domain;
 
-public class Author {
+public class Writer {
 
 }
